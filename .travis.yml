@@ -1,6 +1,5 @@
-
 jasonnoble [9:26 PM]
-```language: ruby
+language: ruby
 rvm:
   - "2.2.1"
 script: bundle exec cucumber -r features features
