@@ -19,7 +19,6 @@ puts "#{seconds_per_minute * minutes_per_hour } seconds in an hour."
 puts "#{seconds_per_minute * minutes_per_hour * hours_per_day} in a day."
 puts "#{seconds_per_minute * hours_per_day * days_per_week} seconds in a week."
 puts "That means when I was 20, I was alive for #{seconds_per_day * days_per_year * 20}
-seconds, and if I make it to 100, I would've lived for #{seconds_when_Im_20 * 19}...
-But who wants to live that long?!"
+seconds, and if I make it to 100, I would've lived for #{seconds_when_Im_20 * 19}. Make them count!"
 
 
